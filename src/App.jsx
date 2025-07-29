@@ -20,7 +20,7 @@ export default function App() {
         <h1>Form Submission</h1>
         <Form className="my-4" onChange={checkFormValidity}>
           <Form.Group className="mb-3" controlId="formBasicEmail">
-            <Form.Label>Email address</Form.Label>
+            <Form.Label>Emails addresss</Form.Label>
             <Form.Control
               type="email"
               placeholder="Enter email"
